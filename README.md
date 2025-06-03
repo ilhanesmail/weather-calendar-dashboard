@@ -1,6 +1,6 @@
 # Weather and Calendar Dashboard
 
-A modern, responsive dashboard built with Next.js that displays:
+A simple dashboard built with Next.js that displays:
 - Current weather information using OpenWeather API
 - Google Calendar integration showing today's and tomorrow's events
 - Dynamic time-based greetings
