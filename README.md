@@ -25,7 +25,7 @@ A simple dashboard built with Next.js that displays:
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/ilhanesmail/weather-calendar-dashboard.git
 cd weather-calendar-dashboard
 ```
 
